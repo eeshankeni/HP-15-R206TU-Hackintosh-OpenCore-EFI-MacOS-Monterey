@@ -16,7 +16,7 @@ Brightness
 Ethernet  
 All USB ports  
 Secure Boot and SIP  
-
+SSDT-HPET.aml compiled with SSDTtime on Windows
 
 
 ## What does not work?
