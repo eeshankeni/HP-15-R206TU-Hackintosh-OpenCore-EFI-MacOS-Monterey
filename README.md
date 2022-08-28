@@ -28,7 +28,7 @@ Touchpad buttons and tap gesture (This ones weird af, the trackpad itself works 
 Alternatively trying Voodoo RMI drivers also did not fix the issue, in fact the touchpad stopped respoding alltogether.
 
 ## All in all,  
-This build is sufficient for devs like me who want to use this budget laptop for building iOS apps. But I would not reccoment this as a daily driver by any means. 
+This build is sufficient for devs like me who want to use this budget laptop for building iOS apps. But I would not recommend this as a daily driver by any means. 
 
 
 ![photo](https://github.com/eeshankeni/HP-15-R206TU-Hackintosh-OpenCore-EFI-MacOS-Monterey/blob/main/image.jpg?raw=true)
