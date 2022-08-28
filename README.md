@@ -1,11 +1,11 @@
-# HP 15-R206TU OpenCore Hackintosh EFI MacOS Monterey
- 
+# HP 15 R206TU Hackintosh OpenCore EFI for MacOS Monterey
+
 ## Specs:
 
 Intel Core i3 5010U (Broadwell)  
 Intel HD 5500  
 Realtek rtl8111h  
-Synaptic PS2 Touchpad  
+Synaptic PS2 Touchpad  Cancel changes
 4GB Ram
 
 ## What works?
@@ -28,5 +28,12 @@ Onboard Wifi and BT (Typical for any hackintosh). I use Tp link TL-WN722N with [
 Alternatively trying Voodoo RMI drivers also did not fix the issue, in fact the touchpad stopped respoding alltogether.
 
 All in all, this build is sufficient for devs who want to use this budget laptop for building ios apps. But I would not use this as a daily driver by any means. 
+
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/eeshankeni/HP-15-R206TU-Hackintosh-OpenCore-EFI-MacOS-Monterey/blob/main/image.jpg?raw=true))
+
+
+
+
 
 
