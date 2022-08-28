@@ -1,34 +1,26 @@
 # HP 15-R206TU OpenCore Hackintosh EFI MacOS Monterey
  
-Specs:
-Intel Core i3 5010U (Broadwell)
+## Specs:
 
-Intel HD 5500
-
-Realtek rtl8111h 
-
-Synaptic PS2 Touchpad
-
+Intel Core i3 5010U (Broadwell)  
+Intel HD 5500  
+Realtek rtl8111h  
+Synaptic PS2 Touchpad  
 4GB Ram
 
-What works?
+## What works?
 
--Power Management
-
--Battery Indicator
-
--Brightness
-
--Ethernet
-
--All USB ports
-
--Secure Boot and SIP
+Power Management  
+Battery Indicator  
+Brightness  
+Ethernet  
+All USB ports  
+Secure Boot and SIP  
 
 
 
-What does not work?
--Onboard Wifi and BT (Typical for any hackintosh). I use Tp link TL-WN722N with [these drivers](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)
+## What does not work?
+Onboard Wifi and BT (Typical for any hackintosh). I use Tp link TL-WN722N with [these drivers](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)
 
 -Audio (I have already added Realtek driver kexts so possibly [playing around with ALC-ID](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html) can fix this option)
 
