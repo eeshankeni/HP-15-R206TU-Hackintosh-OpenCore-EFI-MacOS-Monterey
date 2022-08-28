@@ -27,7 +27,8 @@ Audio (I have already added Realtek driver kexts so possibly [playing around wit
 Touchpad buttons and tap gesture (This ones weird af, the trackpad itself works great with voodoo PS2 drivers but the buttons and tapping click does not). The trackpad is indeed a Synaptic one based on the drivers found on the HP website and windows device manager claims its a PS2 one. 
 Alternatively trying Voodoo RMI drivers also did not fix the issue, in fact the touchpad stopped respoding alltogether.
 
-All in all, this build is sufficient for devs like me who want to use this budget laptop for building iOS apps. But I would not reccoment this as a daily driver by any means. 
+## All in all,  
+This build is sufficient for devs like me who want to use this budget laptop for building iOS apps. But I would not reccoment this as a daily driver by any means. 
 
 
 ![photo](https://github.com/eeshankeni/HP-15-R206TU-Hackintosh-OpenCore-EFI-MacOS-Monterey/blob/main/image.jpg?raw=true)
