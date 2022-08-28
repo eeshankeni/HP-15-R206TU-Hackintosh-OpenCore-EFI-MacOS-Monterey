@@ -5,7 +5,7 @@
 Intel Core i3 5010U (Broadwell)  
 Intel HD 5500  
 Realtek rtl8111h  
-Synaptic PS2 Touchpad  Cancel changes
+Synaptic PS2 Touchpad  
 4GB Ram
 
 ## What works?
