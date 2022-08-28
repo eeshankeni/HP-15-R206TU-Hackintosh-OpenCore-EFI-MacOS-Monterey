@@ -30,8 +30,7 @@ Alternatively trying Voodoo RMI drivers also did not fix the issue, in fact the 
 All in all, this build is sufficient for devs who want to use this budget laptop for building ios apps. But I would not use this as a daily driver by any means. 
 
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/eeshankeni/HP-15-R206TU-Hackintosh-OpenCore-EFI-MacOS-Monterey/blob/main/image.jpg?raw=true))
-
+![photo](https://github.com/eeshankeni/HP-15-R206TU-Hackintosh-OpenCore-EFI-MacOS-Monterey/blob/main/image.jpg?raw=true)
 
 
 
