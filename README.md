@@ -24,8 +24,12 @@ Onboard Wifi and BT (Typical for any hackintosh). I use Tp link TL-WN722N with [
 
 Audio (I have already added Realtek driver kexts so possibly [playing around with ALC-ID](https://dortania.github.io/OpenCore-Post-Install/universal/audio.html) can fix this problem)
 
-Touchpad buttons and tap gesture (This ones weird af, the trackpad itself works great with voodoo PS2 drivers but the buttons and tapping click does not). The trackpad is indeed a Synaptic one based on the drivers found on the HP website and windows device manager claims its a PS2 one. 
+Touchpad buttons. (This ones weird af, the trackpad itself works great with voodoo PS2 drivers but the buttons do not). The trackpad is indeed a Synaptic one based on the drivers found on the HP website and windows device manager claims its a PS2 one. 
 Alternatively trying Voodoo RMI drivers also did not fix the issue, in fact the touchpad stopped respoding alltogether.
+
+##Special Instructions
+I have noticed that after the installer first reboots, opencore efi keeps looping before the picker even shows up. A workaround for this is to create a second opencore efi recovery usb and use that to enter the boooter. This is only necessary once, subsequent boots do not need this second usb and everything works great with the first usb alone. Some weird shit man seriously
+
 
 ## All in all,  
 This build is sufficient for devs like me who want to use this budget laptop for building iOS apps. But I would not recommend this as a daily driver by any means. 
