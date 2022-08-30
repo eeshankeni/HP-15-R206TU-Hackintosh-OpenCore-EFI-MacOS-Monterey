@@ -28,9 +28,11 @@ Touchpad buttons. (This ones weird af, the trackpad itself works great with vood
 Alternatively trying Voodoo RMI drivers also did not fix the issue, in fact the touchpad stopped respoding alltogether.
 
 ## Special Instructions
-I have noticed that after the installer first reboots, opencore efi keeps looping before the picker even shows up. A workaround for this is to create a second opencore efi recovery usb and use that to enter the installer which has been made by the usb installer on your hard disk. This installer was copied to your hard disk before it rebooted for the first time. So you should be able to see it when the picker eventually opens up.
+I have noticed that after the installer first reboots, opencore efi keeps looping before the picker even shows up. A workaround for this is to create a second opencore efi recovery usb. And use that to enter the macOS installer which has been made by the first usb installer on your hard disk. This installer was copied to your hard disk before it rebooted for the first time. So you should be able to see it when the picker eventually opens up. Post this point, there should be an apple logo with 'xx time remaining' text and a progress bar.
 
-This is only necessary once, subsequent boots do not need this second usb and everything works great with the first usb alone. Some weird shit man seriously
+This is only necessary once, subsequent boots do not need this second usb and everything works great with the first usb alone. Some weird shit man seriously!  
+
+After that you can use mountEFI to copy the usb EFI to your hard disk EFI parition. Use [this guide](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html). 
 
 
 ## All in all,  
